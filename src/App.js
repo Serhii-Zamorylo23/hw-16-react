@@ -9,7 +9,7 @@ function App() {
   const [total,setTotal]=useState(0)
   const [positivePercentage,setPositivePercentage]=useState(0)
   useEffect(()=>{
-    setTotal(good+neutral,bad)
+    setTotal(good+neutral+bad)
   },[good,neutral,bad])
   const goodFeedback=()=>{
     setGood(good+1)
