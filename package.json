@@ -2,6 +2,7 @@
   "name": "hw-16-react",
   "version": "0.1.0",
   "private": false,
+  "homepage": "https://serhii-zamorylo23.github.io/hw-16-react/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
